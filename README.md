@@ -28,7 +28,7 @@ Ad-campaign-analytics
 |---|---|
 | **Data** | 3,892 ad records |
 | **Period** | November 2020 – November 2022 |
-| **Sources** | `facebook_ads_basic_daily` + `google_ads_basic_daily` |
+| **Sources** | `facebook_ads_basic_daily` + `google_ads_basic_daily` + `facebook_adset` + `facebook_campaign` |
 | **Output** | `facebook_google_united` |
 | **Tools** | PostgreSQL, Looker Studio |
 
