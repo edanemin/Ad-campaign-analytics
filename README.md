@@ -1,4 +1,4 @@
-# 📊 A Campaign Analytics
+# 📊 Ad Campaign Analytics
 ### Paid Media Performance Analysis | PostgreSQL + Looker Studio
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -9,17 +9,15 @@
 ---
 
 ## Live Dashboard
-🔗 **[View on Looker Studio →]()**
+🔗 **[View on Looker Studio →](https://lookerstudio.google.com/reporting/a15645c1-31f5-4a2e-8857-b2a06861d944)**
 
 ---
 
 ## Repo Structure
 ```
-a-campaign-analytics
+Ad-campaign-analytics
 ┣ sql/
 ┃ ┗ facebook_google_united.sql
-┣ data/
-┃ ┗ facebook_google_united.csv
 ┗ README.md
 ```
 
@@ -28,7 +26,7 @@ a-campaign-analytics
 ## Project Summary
 | | |
 |---|---|
-| **Data** | 3,891 ad records |
+| **Data** | 3,892 ad records |
 | **Period** | November 2020 – November 2022 |
 | **Sources** | `facebook_ads_basic_daily` + `google_ads_basic_daily` |
 | **Output** | `facebook_google_united` |
@@ -96,12 +94,11 @@ Combining and cleaning Facebook and Google ad data:
 ## Notes
 - Campaigns with missing UTM parameters are labeled as `"unknown"`.
 - Reach Rate >100% indicates a data anomaly (Brand campaign).
-- 4 NULL values in `leads` column were treated as 0.
 
 ---
 
 ## 👩‍💻 Author
-**[Name Surname]** · March 2026  
-🔗 [LinkedIn]()
+Eda Nilsun EMİN · March 2026  
+🔗 [LinkedIn](www.linkedin.com/in/eda-nilsun-emin-51225810b)
 
 ---
