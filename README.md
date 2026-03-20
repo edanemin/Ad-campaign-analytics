@@ -1,5 +1,5 @@
 # 📊 Ad Campaign Analytics
-### Paid Media Performance Analysis | PostgreSQL + Looker Studio
+### Paid Media Performance Analysis 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
