@@ -99,6 +99,6 @@ Combining and cleaning Facebook and Google ad data:
 
 ## 👩‍💻 Author
 Eda Nilsun EMİN · March 2026  
-🔗 [LinkedIn](www.linkedin.com/in/eda-nilsun-emin-51225810b)
+🔗 [LinkedIn](www.linkedin.com/in/eda-nilsun-emin)
 
 ---
