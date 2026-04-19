@@ -9,7 +9,7 @@
 ---
 
 ## Live Dashboard
-🔗 **[View on Looker Studio →](https://lookerstudio.google.com/reporting/a15645c1-31f5-4a2e-8857-b2a06861d944)**
+🔗 **[View on Data Studio →](https://datastudio.google.com/reporting/a15645c1-31f5-4a2e-8857-b2a06861d944)**
 
 ---
 
