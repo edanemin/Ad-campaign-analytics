@@ -30,7 +30,7 @@ Ad-campaign-analytics
 | **Period** | November 2020 – November 2022 |
 | **Sources** | `facebook_ads_basic_daily` + `google_ads_basic_daily` + `facebook_adset` + `facebook_campaign` |
 | **Output** | `facebook_google_united` |
-| **Tools** | PostgreSQL, Looker Studio |
+| **Tools** | PostgreSQL, Data Studio |
 
 ---
 
@@ -74,7 +74,7 @@ Combining and cleaning Facebook and Google ad data:
 - NULL `leads` values handled with `COALESCE`
 - Rows with NULL `ad_date` and `url_parameters` filtered out
 
-### Looker Studio
+### Data Studio
 - Custom calculated fields: ROAS, CTR, CPL, CPC, CPM, CR, Reach Rate
 - `PARSE_DATE('%F', ad_date)` for date type conversion
 - Conditional formatting to flag Reach Rate > 100% as data anomaly
