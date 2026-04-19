@@ -2,7 +2,7 @@
 ### Paid Media Performance Analysis 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 > **Business Question:** Which media source, campaign and UTM channel drives the most efficient return on ad spend? Where are the biggest opportunities to reduce cost per lead?
 
